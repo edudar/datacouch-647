@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: app
+  couchbase:
+    username: mmm
+    password: qwerty12345
+    connection-string: localhost
+  data:
+    couchbase:
+      bucket-name: mmm
+      auto-index: false
